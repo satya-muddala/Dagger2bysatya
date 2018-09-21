@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\satyanarayana.muddal\Desktop\dagger-2\Dagger-2-Advanced\Blog.iml" filepath="C:\Users\satyanarayana.muddal\Desktop\dagger-2\Dagger-2-Advanced\Blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dagger-2-withsubscoping.iml" filepath="$PROJECT_DIR$/Dagger-2-withsubscoping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
